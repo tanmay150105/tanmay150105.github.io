@@ -1,0 +1,18 @@
+[
+  {
+    "title": "TechStore E-Commerce Platform",
+    "description": "- Developed a full-stack application to ensure an end-to-end software engineering lifecycle within a 1-month period.\n- Implemented secure multi-component architecture with JWT authentication, RESTful API development, and MySQL database integration.\n- Applied best practices in modular code structure, user authentication, and data management for scalable deployment.",
+    "tags": ["React", "Node.js", "MySQL", "JWT"],
+    "githubUrl": "https://github.com/tanmay150105/CodeAlpha_techstore",
+    "liveUrl": "https://tanmay150105.github.io/CodeAlpha_techstore/",
+    "image": "/images/project1.png"
+  },
+  {
+    "title": "Disaster Management Control Grid",
+    "description": "- Built a data-driven dashboard for real-time disaster response and resource allocation.\n- Applied analytical modeling and data interpretation to live incident data using Pandas and Data Visualization.\n- Derived actionable technical insights from complex datasets for decision support.\n- Automated alerting and reporting for rapid decision-making during disaster events.",
+    "tags": ["Python", "Pandas", "Data Visualization"],
+    "notebook": "https://www.kaggle.com/code/tanmayjain1515/disaster-relief-notification-agent",
+    "certificate": "https://www.kaggle.com/certification/badges/tanmayjain1515/105",
+    "image": "/images/project2.png"
+  }
+]
