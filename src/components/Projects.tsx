@@ -46,7 +46,7 @@ export function Projects() {
 
   // Fetch projects
   useEffect(() => {
-    fetch('./projects.json')
+    fetch(`${import.meta.env.BASE_URL}projects.json`)
       .then((res) => res.ok ? res.json() : [])
       .then((data) => setProjects(data))
       .catch(() => setProjects([]));

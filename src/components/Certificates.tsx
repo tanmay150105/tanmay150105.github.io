@@ -1,3 +1,5 @@
+/// <reference types="vite/client" />
+
 import React, { useEffect, useState } from "react";
 
 interface Certificate {
@@ -18,7 +20,7 @@ export function Certificates() {
   const cardsPerRow = 2;
 
   useEffect(() => {
-    fetch('./certificates.json')
+    fetch(`${import.meta.env.BASE_URL}certificates.json`)
       .then((res) => res.ok ? res.json() : [])
       .then((data) => setCertificates(data))
       .catch(() => setCertificates([]));
