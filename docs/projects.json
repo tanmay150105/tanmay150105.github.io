@@ -5,7 +5,7 @@
     "tags": ["React", "Node.js", "MySQL", "JWT"],
     "githubUrl": "https://github.com/tanmay150105/CodeAlpha_techstore",
     "liveUrl": "https://tanmay150105.github.io/CodeAlpha_techstore/",
-    "image": "/images/project1.png"
+    "image": "images/project1.png"
   },
   {
     "title": "Disaster Management Control Grid",
@@ -13,6 +13,6 @@
     "tags": ["Python", "Pandas", "Data Visualization"],
     "notebook": "https://www.kaggle.com/code/tanmayjain1515/disaster-relief-notification-agent",
     "certificate": "https://www.kaggle.com/certification/badges/tanmayjain1515/105",
-    "image": "/images/project2.png"
+    "image": "images/project2.png"
   }
 ]
